@@ -1,0 +1,16 @@
+{
+  "name": "jhipster-sample-application-01",
+  "version": "0.0.0",
+  "description": "Description for jhipsterSampleApplication01",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster": "6.1.2"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  }
+}
